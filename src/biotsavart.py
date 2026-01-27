@@ -10,7 +10,7 @@ r = np.linspace(0.01, 0.1, 100)
 
 B = (mu_0 * I) / (2 * np.pi * r)
 
-# Plot
+
 plt.plot(r, B)
 plt.xlabel("Distance (m)")
 plt.ylabel("Magnetic Field (T)")
