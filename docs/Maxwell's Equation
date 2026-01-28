@@ -1,0 +1,37 @@
+Maxwell’s equations are a set of four fundamental laws that describe how electric and magnetic fields are produced and how they interact with charges and currents. Together, they explain almost all classical electromagnetic phenomena, including light.
+1️) Gauss’s Law for Electricity
+
+
+div E = rho / ε_0
+Meaning
+Electric charges create electric fields. The electric field spreads out from positive charges and goes into negative charges.
+E → electric field
+rho → charge density (charge per unit volume)
+ε_0 → permittivity of free space
+
+2️) Gauss’s Law for Magnetism
+
+
+div B = 0
+Meaning
+There are no magnetic monopoles. Magnetic field lines always form closed loops.
+B → magnetic field
+
+3️) Faraday’s Law of Electromagnetic Induction
+
+curl E = - dB/dt
+Meaning
+A changing magnetic field produces an electric field. This is the principle behind generators and transformers.
+curl E → circulating electric field
+dB/dt → rate of change of magnetic field
+
+4️) Ampere–Maxwell Law
+
+curl B = mu_0 * J + mu_0 *ε_0 * dE/dt
+Meaning
+Magnetic fields are produced by:
+1)Electric current
+2)Changing electric field
+
+J → current density
+dE/dt → rate of change of electric field
