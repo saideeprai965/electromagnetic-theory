@@ -2,9 +2,8 @@ Coulomb’s law describes the electric force between two stationary electric cha
 Statement of Coulomb’s Law
 The force between two point charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them.
 Mathematically, Coulomb’s law is written as:
-
-Explanation of Each Term
 F = k * (q1 * q2) / r^2
+Explanation of Each Term
 F :- This is the electric force between the two charges.
 Its unit is newton (N).
 q1 and q2 are the magnitudes of the two electric charges.
@@ -29,7 +28,8 @@ This shows that electric force decreases very quickly as distance increases.
 Simple Example
 If two charges are kept very close to each other, the electric force between them is strong.
 As they are moved farther apart, the force becomes weaker.
-Conclusion
+
+Conclusion:-
 Coulomb’s law helps us understand how electric charges interact. It explains that:-
 The force increases with larger charges
 The force decreases with increasing distance
