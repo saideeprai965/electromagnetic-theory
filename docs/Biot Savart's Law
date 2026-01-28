@@ -1,0 +1,11 @@
+Biot–Savart law describes the magnetic field produced by a current-carrying conductor at a point in space. It tells us how each small segment of current contributes to the magnetic field, and the total magnetic field is obtained by adding the contributions from all such segments.
+
+dB = (mu_0 / (4 * pi)) * (I * dl * sin(theta)) / r^2
+
+Meaning of each term:-
+dB:-Small contribution to the magnetic field at the point.
+mu_0:-Permeability of free space.
+I:-Current flowing through the conductor.
+dl:-Small length element of the conductor.
+theta:-Angle between the current element dl and the line joining the element to the observation point.
+r:-Distance between the current element and the point where the magnetic field is measured.
