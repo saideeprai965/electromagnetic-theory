@@ -3,7 +3,7 @@ Maxwell’s equations are a set of four fundamental laws that describe how elect
 
 
 div E = rho / ε_0
-Meaning
+Meaning:-
 Electric charges create electric fields. The electric field spreads out from positive charges and goes into negative charges.
 E → electric field
 rho → charge density (charge per unit volume)
@@ -13,14 +13,14 @@ rho → charge density (charge per unit volume)
 
 
 div B = 0
-Meaning
+Meaning:-
 There are no magnetic monopoles. Magnetic field lines always form closed loops.
 B → magnetic field
 
 3️) Faraday’s Law of Electromagnetic Induction
 
 curl E = - dB/dt
-Meaning
+Meaning:-
 A changing magnetic field produces an electric field. This is the principle behind generators and transformers.
 curl E → circulating electric field
 dB/dt → rate of change of magnetic field
@@ -28,7 +28,7 @@ dB/dt → rate of change of magnetic field
 4️) Ampere–Maxwell Law
 
 curl B = mu_0 * J + mu_0 *ε_0 * dE/dt
-Meaning
+Meaning:-
 Magnetic fields are produced by:
 1)Electric current
 2)Changing electric field
