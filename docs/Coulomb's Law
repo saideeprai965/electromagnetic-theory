@@ -1,0 +1,37 @@
+Coulomb’s law describes the electric force between two stationary electric charges. It tells us how strong the force is and whether the force is attractive or repulsive.
+Statement of Coulomb’s Law
+The force between two point charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them.
+Mathematically, Coulomb’s law is written as:
+
+Explanation of Each Term
+F = k * (q1 * q2) / r^2
+F :- This is the electric force between the two charges.
+Its unit is newton (N).
+q1 and q2 are the magnitudes of the two electric charges.
+The unit of charge is coulomb (C).
+
+r is the distance between the two charges and its unit is meter (m).
+where k = 1 / (4 * pi *ε_0 )
+k = 9 × 10^9 N·m^2/C^2
+ε_0 is the permittivity of free space, which tells us how electric fields behave in vacuum
+and its value is 8.85 x 10^-12 C^2/(N.m^2)
+Nature of the Force:-
+If both charges have the same sign (both positive or both negative), the force is repulsive.
+If the charges have opposite signs, the force is attractive.
+This means:
+Like charges repel each other
+Unlike charges attract each other
+Effect of Distance on Force
+The force depends on the square of the distance between the charges.
+If the distance between the charges is doubled, the force becomes one-fourth.
+If the distance is halved, the force becomes four times stronger.
+This shows that electric force decreases very quickly as distance increases.
+Simple Example
+If two charges are kept very close to each other, the electric force between them is strong.
+As they are moved farther apart, the force becomes weaker.
+Conclusion
+Coulomb’s law helps us understand how electric charges interact. It explains that:-
+The force increases with larger charges
+The force decreases with increasing distance
+The force can be attractive or repulsive depending on the type of charges
+This law is the foundation of electrostatics and is widely used in physics and electrical engineering.
