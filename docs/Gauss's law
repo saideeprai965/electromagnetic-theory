@@ -1,0 +1,16 @@
+Gauss’s law relates the electric field passing through a closed surface to the total electric charge enclosed inside that surface. It tells us that electric charges are the source of electric field, and the amount of field coming out depends only on how much charge is inside, not on the shape or size of the surface.
+Gauss’s law equation (text format):
+Copy code
+
+∮ E · dA = Q_enclosed / ε_0
+Meaning of each term
+∮ E · dA
+This represents the electric flux through a closed surface. It means how much electric field is passing outward through the surface.
+E
+Electric field at the surface.
+dA
+A very small area element of the closed surface, directed outward.
+Q_enclosed
+Total electric charge present inside the closed surface.
+epsilon_0
+Permittivity of free space.
