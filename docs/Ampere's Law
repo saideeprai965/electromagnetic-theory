@@ -1,0 +1,13 @@
+Ampere’s law relates the magnetic field around a closed path to the electric current passing through the surface bounded by that path. It tells us that electric current is a source of magnetic field, just like electric charge is a source of electric field.
+
+
+∮ B · dl = mu_0 * I_enclosed
+Meaning of each term
+∮ B · dl
+Line integral of the magnetic field around a closed loop. It represents the total magnetic effect along the loop.
+B:-Magnetic field at each point on the loop.
+dl:-Small length element along the closed path.
+mu_0:-Permeability of free space.
+I_enclosed:-Total current passing through the surface enclosed by the loop.
+
+Ampere’s law says that if you go around a closed loop and add up the magnetic field along the path, the result depends only on the current flowing through the loop. More current produces a stronger magnetic field. Currents outside the loop do not affect the result.
